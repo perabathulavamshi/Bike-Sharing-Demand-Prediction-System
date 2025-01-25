@@ -50,17 +50,6 @@ This project predicts bike rental demand using historical data and machine learn
 
 ---
 
-## 📁 Repository Structure
-```
-|-- data/                  # Contains the dataset
-|-- scripts/               # Python scripts for analysis and modeling
-|-- visualizations/        # Plots and insights
-|-- README.md              # Project overview and usage guide
-|-- bike_sharing.py        # Main script for prediction and visualization
-```
-
----
-
 ## 📩 Contact
 For questions or collaboration:
 
